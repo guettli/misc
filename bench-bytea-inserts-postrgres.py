@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+# Source https://github.com/guettli/misc/blob/master/bench-bytea-inserts-postrgres.py
+# Chart: https://github.com/guettli/misc/blob/master/bench-bytea-inserts-postrgres.png
+
+# https://en.wikipedia.org/wiki/Fair_License
+#     <Copyright Information>
+#    Usage of the works is permitted provided that this instrument is retained with the works, 
+#    so that any entity that uses the works is notified of this instrument.
+#    DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.
+
 import os
 import time
 import matplotlib.pyplot as plt
